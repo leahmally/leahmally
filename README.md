@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on learning to be a software developer!
+- 🌱 I’m currently learning C# through Tech Elevator
+- 📫 How to reach me: leahchristine21@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My undergrad degree is in teaching!
+
