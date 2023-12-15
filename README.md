@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## - 🔭 I’m currently working on learning to be a software developer!
-## - 🌱 I’m currently learning C# through Tech Elevator
+## - 🔭 I'm working on landing my first rold in the tech industry!
+## - 🌱 I graduated from Tech Elevator's Softwae Development Bootcamp in December 2023!
 ## - 📫 How to reach me: leahchristine21@gmail.com
 ## - 😄 Pronouns: she/her
-## - ⚡ Fun fact: My undergrad degree is in teaching!
+## - ⚡ Fun fact: I own a small business called Makes by Mally Design -- check it out on Etsy!
 
