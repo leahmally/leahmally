@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## - 🔭 I'm working on landing my first rold in the tech industry!
 ## - 🌱 I graduated from Tech Elevator's Software Development Bootcamp in December 2023!
-## - 📫 How to reach me: leahchristine21@gmail.com
+## - 📫 How to reach me: lcmally64@gmail.com
 ## - 😄 Pronouns: she/her
 ## - ⚡ Fun fact: I own a small business called Makes by Mally Design -- check it out on Etsy!
 
